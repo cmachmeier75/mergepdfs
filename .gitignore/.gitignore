@@ -1,0 +1,14 @@
+.DS_Store
+.env
+.idea
+exports/*
+fac.credentials
+imports/*
+logs/*
+run.sh
+src/settings.php.local
+src/settings.php.office
+src/settings.php.src
+vendor/*
+*.sql
+*.xlsx
